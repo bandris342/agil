@@ -1,7 +1,7 @@
 venv/
-.pyc
-.pyo
+*.pyc
+*.pyo
 __pycache__
-.sh
-.txt
+*.sh
+*.txt
 db.sqlite3
